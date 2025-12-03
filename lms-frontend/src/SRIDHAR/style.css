@@ -1,0 +1,24 @@
+div{
+    color:rgb(26, 25, 27) ;
+    height:auto;
+    width:auto;
+    border:15px black;
+    border-radius: 55px;
+    padding:55px;
+    padding: 50px;
+    margin: 5px 10px 15px 20px;
+   
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     color: white;
+     background-image:url(https://i.pinimg.com/1200x/d2/ad/7c/d2ad7c4f537e1f8919cf419f60e04283.jpg);
+    
+
+}
+div:hover{
+         box-shadow:15px 10px 10px 5px rgb(84, 84, 84);
+         background-image:url(https://i.pinimg.com/1200x/b7/27/7c/b7277caab37f2e8d820433149ea9cb4c.jpg);
+         font-family: "Bitcount Prop Single", system-ui;
+}
+
